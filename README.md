@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Prithviraj Kharate 👋
 
-<!--
-**Preetkharate/Preetkharate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software Development Engineer (SDE 1)
+💻 Full Stack Developer | Java, Spring Boot, React, AWS
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+* Java, JavaScript, PHP
+* React.js, HTML, CSS
+* Spring Boot, REST APIs
+* MySQL
+* AWS (EC2, S3)
+* Git, GitHub
+
+---
+
+## 📌 Key Projects
+
+### 🔹 User Management System
+
+* Spring Boot + React + MySQL
+* REST APIs for authentication and CRUD
+* Deployed on AWS
+
+### 🔹 Backend Data System
+
+* Java + MySQL backend
+* Optimized queries for performance
+
+---
+
+## 📈 Problem Solving
+
+* Solved 200+ DSA problems
+* Strong in arrays, trees, recursion
+
+---
+
+## 📫 Contact
+
+* Email: [kharatepreet4291@gmail.com](mailto:kharatepreet4291@gmail.com)
