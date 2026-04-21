@@ -18,6 +18,11 @@
 
 ## 📌 Key Projects
 
+### 🔹 Expence Tracker
+
+* Spring Boot + React + MySQL
+* REST APIs for authentication and CRUD 
+
 ### 🔹 User Management System
 
 * Spring Boot + React + MySQL
